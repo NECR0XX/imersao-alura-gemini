@@ -1,4 +1,4 @@
-# Projeto: Busca de Conteúdo em Química - Imersão Dev Alura com Google e Gemini
+# Projeto: Busca de Conteúdo em Química - Imersão Dev Alura com Google Gemini
 
 ## Descrição
 Este projeto web oferece uma interface simples e intuitiva para pesquisar diversos tópicos relacionados à química. Ao digitar uma palavra-chave no campo de pesquisa, o usuário é apresentado a uma lista de resultados relevantes, com título, descrição e link para mais informações.
