@@ -1,4 +1,4 @@
-# Projeto: Busca de Conteúdo em Química
+# Projeto: Busca de Conteúdo em Química - Imersão Dev Alura com Google e Gemini
 
 ## Descrição
 Este projeto web oferece uma interface simples e intuitiva para pesquisar diversos tópicos relacionados à química. Ao digitar uma palavra-chave no campo de pesquisa, o usuário é apresentado a uma lista de resultados relevantes, com título, descrição e link para mais informações.
@@ -28,5 +28,3 @@ Este projeto web oferece uma interface simples e intuitiva para pesquisar divers
 - `style.css`: Arquivo de estilos CSS, responsável pela aparência visual da página.
 - `app.js`: Arquivo JavaScript com a lógica da aplicação.
 - `dados.js`: Arquivo JavaScript contendo os dados a serem pesquisados (títulos, descrições, tags e links).
-
-**Projeto realizado nas aulas da imersão da Alura com Google Gemini**
